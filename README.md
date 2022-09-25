@@ -11,22 +11,19 @@ With the Computer Interface view, you can make your own titles, tasks, or random
 ![image](https://user-images.githubusercontent.com/81720436/192162410-593a2e0c-1233-40f3-960e-d611bdfbbf3c.png)
 
 ## How do you use the mod
-Using Computer Interface, you can choose if you want to enable or disable the bingo menu, and change what it looks like.  
+Using Computer Interface, you can toggle the mod and edit what it looks like.
 
-![image](https://user-images.githubusercontent.com/81720436/192162491-89cc86a7-c007-45fc-b980-f915f9a96fe1.png)
+![image](https://user-images.githubusercontent.com/81720436/192163717-9f4e44d0-aaa2-4c96-81c5-eb7e3354e7e6.png)
 
 By going into the "Edit Card Text" tab, you will be able to change the title and tasks for your bingo menu.  
 At first, you will be able to change your title for the bingo menu, just type it out and press enter to save it. 
 You can also press Option 1 to set it to "[your ingame name]'S BINGO CARD". 
 
-![image](https://user-images.githubusercontent.com/81720436/192162573-de66354e-6934-41eb-99bf-56b454513403.png)
+![image](https://user-images.githubusercontent.com/81720436/192163734-27d44fc5-15db-4f1d-835d-4220bffe431f.png)
 
 To switch what element of the bingo menu you want to change, use the left and right arrow keys.  
 When editing a task, you can type it out and press enter just like the title.   
 Although if you press Option 1, it will change to a random task from a list of 130+ different tasks.  
-
-![image](https://user-images.githubusercontent.com/81720436/192163596-9aa56735-7c11-4164-81e2-7749bd16e933.png)
-
 To check a task off your list, just press it with your right index finger, and to uncheck a task press it again.
 
-![image](https://user-images.githubusercontent.com/81720436/192163666-2fc135a9-95ed-4c88-a9d6-3dff0c3e3124.png)
+![ezgif-3-786767366e](https://user-images.githubusercontent.com/81720436/192164126-09597faf-898c-4071-8a8a-5f95b804cf80.gif)
